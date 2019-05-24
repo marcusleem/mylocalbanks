@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mylocalbanks</string>
+    <string name="DBS">DBS</string>
+    <string name="OCBC">OCBC</string>
+    <string name="UOB">UOB</string>
+    <string name="DBStel">1800-111-1111</string>
+    <string name="OCBCtel">1800-363-3333</string>
+    <string name="UOBtel">1800-222-2121</string>
+
+</resources>
